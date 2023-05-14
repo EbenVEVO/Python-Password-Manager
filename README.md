@@ -10,7 +10,7 @@ rich console
 rich table
 hashlib
 
-Using this program you can gernerate passwords, store passwords in a database and search for passwords entered in database
+Using this program you can generate passwords, store passwords in a database and search for passwords entered in database
 
 1. Run database.py to create password manager database
 2. Run passmanager.py to run program
